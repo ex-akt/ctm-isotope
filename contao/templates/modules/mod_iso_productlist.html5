@@ -1,0 +1,31 @@
+<?php 
+    $sm = $this->styleManager; 
+?>
+<?php $this->extend('block_searchable'); ?>
+
+<?php $this->block('content'); ?>
+
+<?php if($this->message): ?>
+
+<p class="<?= $this->type ?> message"><?= $this->message ?></p>
+<?php endif; ?>
+<?php if(!empty($this->products)): ?>
+
+<?php if (empty($sm->get('eGridList')) && !str_contains($this->class, 'init-slider')): ?>
+    <div class="product_list">
+<?php endif; ?>
+
+<?php foreach ($this->products as $product): ?>
+<div<?= $product['cssID'] ?> class="<?= $product['class'] ?>">
+<?= $product['html'] ?>
+</div>
+<?php endforeach; ?>
+
+<?php if (empty($sm->get('eGridList')) && !str_contains($this->class, 'init-slider')): ?>
+    </div>>
+<?php endif; ?>
+
+<?= $this->pagination ?>
+<?php endif; ?>
+
+<?php $this->endblock(); ?>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archives>
+    <archive identifier="eGridList">
+        <field title="identifier">List</field>
+        <children>
+            <child alias="list">
+                <field title="alias">list</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+        </children>
+    </archive>
+</archives>

@@ -1,0 +1,52 @@
+{
+  "name": "ex-akt/ctm-isotope",
+  "type": "symfony-bundle",
+  "description": "Isotope Layout for Contao Theme-Manager",
+  "keywords": ["contao", "theme", "isotope"],
+  "homepage": "https://www.ex-akt.de/",
+  "authors": [
+    {
+      "name": "ex-akt",
+      "homepage": "https://ex-akt.de/",
+      "role": "Developer"
+    },
+    {
+      "name": "Samuel Heer",
+      "homepage": "https://github.com/samuelheer",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "contao/core-bundle": "^4.13 || ^5.2",
+    "contao-thememanager/core": "^2.2",
+    "isotope/isotope-core":"^2.5"
+  },
+  "require-dev": {
+    "contao/manager-plugin": "^2.3.1"
+  },
+  "conflict": {
+    "contao/core": "*",
+    "contao/manager-plugin": "<2.0 || >=3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ContaoThemeManager\\Isotope\\": "src/"
+    },
+    "classmap": [
+      "contao/"
+    ],
+    "exclude-from-classmap": [
+      "contao/config/",
+      "contao/dca/",
+      "contao/languages/",
+      "contao/templates/"
+    ]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.1.x-dev"
+    },
+    "contao-manager-plugin": "ContaoThemeManager\\Isotope\\ContaoManager\\Plugin"
+  }
+}
