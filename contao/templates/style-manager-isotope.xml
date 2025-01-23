@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archives>
     <archive identifier="eGridList">
-        <field title="identifier">List</field>
+        <field title="identifier">eGridList</field>
         <children>
             <child alias="list">
                 <field title="alias">list</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="listXS">
+                <field title="alias">listXS</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="listS">
+                <field title="alias">listS</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="listM">
+                <field title="alias">listM</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="listL">
+                <field title="alias">listL</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="listXL">
+                <field title="alias">listXL</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="gutter">
+                <field title="alias">gutter</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="justify">
+                <field title="alias">justify</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="justifyXS">
+                <field title="alias">justifyXS</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="justifyS">
+                <field title="alias">justifyS</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="justifyM">
+                <field title="alias">justifyM</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="justifyL">
+                <field title="alias">justifyL</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="justifyXL">
+                <field title="alias">justifyXL</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="alignment">
+                <field title="alias">alignment</field>
                 <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
             </child>
         </children>
