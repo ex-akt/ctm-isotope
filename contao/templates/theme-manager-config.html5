@@ -1,0 +1,24 @@
+<?php return [
+    'palettes' => [
+        'default'  =>
+            '{isotope_detail_legend:hide ctm-group palette-group[isotope_header]},iso-detail-price-fs,iso-detail-price-fw;' .
+            '{isotope_checkout_legend:hide},iso-detail-price-fw;'
+
+    ],
+    'fields'   => [
+        // Detail Price Font Size
+        'iso-detail-price-fs' => [
+            'default'                 => '20px',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['iso-detail-price-fs'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'20px', 'maxlength'=>255, 'decodeEntities'=>true, 'tl_class'=>'w33'],
+        ],
+         // Detail Price Font Weight
+        'iso-detail-price-fw' => [
+            'default'                 => '700',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['iso-detail-price-fw'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'700', 'maxlength'=>255, 'decodeEntities'=>true, 'tl_class'=>'w33'],
+        ],
+    ]
+];

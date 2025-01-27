@@ -1,0 +1,32 @@
+.product_reader{
+    
+    .inside{
+       --v-gap: var(--gtr-half);
+    }
+
+    .el-sticky{
+        &>div{
+            position: sticky; 
+            top: 0;
+        }
+    }
+
+    .price{
+        font-size: var(--iso-dtl-prc-fs);
+        font-weight: var(--iso-dtl-prc-fw);
+    }
+
+    .submit_container{
+        display: flex;
+        column-gap: var(--gtr-half);
+
+        label{
+            display: none;
+        }
+
+        .add_to_cart{
+            width:100%;
+        }
+
+    }
+}

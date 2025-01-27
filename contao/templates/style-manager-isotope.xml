@@ -61,4 +61,33 @@
             </child>
         </children>
     </archive>
+    <archive identifier="eImage">
+        <field title="identifier">eImage</field>
+        <children>
+            <child alias="scale">
+                <field title="alias">scale</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="aspectRatio">
+                <field title="alias">aspectRatio</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="imgAlign">
+                <field title="alias">imgAlign</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="objectFit">
+                <field title="alias">objectFit</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="objectPosX">
+                <field title="alias">objectPosX</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+            <child alias="objectPosY">
+                <field title="alias">objectPosY</field>
+                <field title="modules">a:1:{i:0;s:15:"iso_productlist";}</field>
+            </child>
+        </children>
+    </archive>
 </archives>
