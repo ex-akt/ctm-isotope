@@ -88,36 +88,48 @@
                 <field title="alias">listXL</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="gutter">
-                <field title="alias">gutter</field>
+            <child alias="direction">
+                <field title="alias">direction</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="justify">
-                <field title="alias">justify</field>
+            <child alias="listGutter">
+                <field title="alias">listGutter</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="justifyXS">
-                <field title="alias">justifyXS</field>
+            <child alias="listStyle">
+                <field title="alias">listStyle</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="justifyS">
-                <field title="alias">justifyS</field>
+            <child alias="icon">
+                <field title="alias">icon</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="justifyM">
-                <field title="alias">justifyM</field>
+            <child alias="justifyList">
+                <field title="alias">justifyList</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="justifyL">
-                <field title="alias">justifyL</field>
+            <child alias="justifyListXS">
+                <field title="alias">justifyListXS</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="justifyXL">
-                <field title="alias">justifyXL</field>
+            <child alias="justifyListS">
+                <field title="alias">justifyListS</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
-            <child alias="alignment">
-                <field title="alias">alignment</field>
+            <child alias="justifyListM">
+                <field title="alias">justifyListM</field>
+                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+            </child>
+            <child alias="justifyListL">
+                <field title="alias">justifyListL</field>
+                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+            </child>
+            <child alias="justifyListXL">
+                <field title="alias">justifyListXL</field>
+                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+            </child>
+            <child alias="markerColor">
+                <field title="alias">markerColor</field>
                 <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
             </child>
         </children>
