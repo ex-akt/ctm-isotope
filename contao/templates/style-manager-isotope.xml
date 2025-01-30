@@ -163,4 +163,42 @@
             </child>
         </children>
     </archive>
+    <archive identifier="ePadding">
+        <field title="identifier">ePadding</field>
+        <children>
+            <child alias="ip">
+                <field title="alias">ip</field>
+                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+            </child>
+            <child alias="ipXS">
+                <field title="alias">ipXS</field>
+                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+            </child>
+            <child alias="ipS">
+                <field title="alias">ipS</field>
+                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+            </child>
+            <child alias="ipM">
+                <field title="alias">ipM</field>
+                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+            </child>
+            <child alias="ipL">
+                <field title="alias">ipL</field>
+                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+            </child>
+            <child alias="ipXL">
+                <field title="alias">ipXL</field>
+                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+            </child>
+        </children>
+    </archive>
+    <archive identifier="eBackground">
+        <field title="identifier">eBackground</field>
+        <children>
+            <child alias="color">
+                <field title="alias">color</field>
+                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+            </child>
+        </children>
+    </archive>
 </archives>
