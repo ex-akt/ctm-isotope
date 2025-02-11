@@ -5,59 +5,59 @@
         <children>
             <child alias="list">
                 <field title="alias">list</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listXS">
                 <field title="alias">listXS</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listS">
                 <field title="alias">listS</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listM">
                 <field title="alias">listM</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listL">
                 <field title="alias">listL</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listXL">
                 <field title="alias">listXL</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="gutter">
                 <field title="alias">gutter</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justify">
                 <field title="alias">justify</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyXS">
                 <field title="alias">justifyXS</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyS">
                 <field title="alias">justifyS</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyM">
                 <field title="alias">justifyM</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyL">
                 <field title="alias">justifyL</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyXL">
                 <field title="alias">justifyXL</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignment">
                 <field title="alias">alignment</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -139,27 +139,27 @@
         <children>
             <child alias="scale">
                 <field title="alias">scale</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="aspectRatio">
                 <field title="alias">aspectRatio</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="imgAlign">
                 <field title="alias">imgAlign</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="objectFit">
                 <field title="alias">objectFit</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="objectPosX">
                 <field title="alias">objectPosX</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="objectPosY">
                 <field title="alias">objectPosY</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -168,27 +168,27 @@
         <children>
             <child alias="ip">
                 <field title="alias">ip</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipXS">
                 <field title="alias">ipXS</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipS">
                 <field title="alias">ipS</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipM">
                 <field title="alias">ipM</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipL">
                 <field title="alias">ipL</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipXL">
                 <field title="alias">ipXL</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -197,7 +197,7 @@
         <children>
             <child alias="color">
                 <field title="alias">color</field>
-                <field title="modules">a:2:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";}</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
