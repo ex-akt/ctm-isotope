@@ -1,5 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archives>
+    <archive identifier="gHeadline">
+        <field title="identifier">gHeadline</field>
+        <children>
+            <child alias="spacingGlobal">
+                <field title="alias">spacingGlobal</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+             <child alias="spacing">
+                <field title="alias">spacing</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+             <child alias="spacingXS">
+                <field title="alias">spacingXS</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+             <child alias="spacingS">
+                <field title="alias">spacingS</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+             <child alias="spacingM">
+                <field title="alias">spacingM</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+             <child alias="spacingL">
+                <field title="alias">spacingL</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+             <child alias="spacingXL">
+                <field title="alias">spacingXL</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+             <child alias="alignment">
+                <field title="alias">alignment</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentXS">
+                <field title="alias">alignmentXS</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentS">
+                <field title="alias">alignmentS</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentM">
+                <field title="alias">alignmentM</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentL">
+                <field title="alias">alignmentL</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentXL">
+                <field title="alias">alignmentXL</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="hlTextColor">
+                <field title="alias">hlTextColor</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+        </children>
+    </archive>
+    <archive identifier="gText">
+        <field title="identifier">gText</field>
+        <children>
+            <child alias="alignment">
+                <field title="alias">alignment</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentXS">
+                <field title="alias">alignmentXS</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentS">
+                <field title="alias">alignmentS</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentM">
+                <field title="alias">alignmentM</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentL">
+                <field title="alias">alignmentL</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="alignmentXL">
+                <field title="alias">alignmentXL</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+            <child alias="textColor">
+                <field title="alias">textColor</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+        </children>
+    </archive>
+    <archive identifier="gLink">
+        <field title="identifier">gLink</field>
+        <children>
+            <child alias="linkColor">
+                <field title="alias">linkColor</field>
+                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:21:"iso_productvariantlist";i:2;s:16:"iso_productreader";i:3;s:11:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:16:"iso_productfilter";i:7;s:19:"iso_cumulativefilter";i:8;s:16:"iso_categoryfilter";i:9;s:14:"iso_rangefilter";i:10;s:15:"iso_orderhistory";i:11;s:14:"iso_orderdetails";i:12;s:18:"iso_wishlistmanager";i:13;s:17:"iso_wishlistviewer";i:14;s:17:"iso_wishlistdetails";i:15;s:16:"iso_configswitcher";i:16;s:14:"iso_addressbook";i:17;s:18:"iso_relatedproducts";i:18;s:11:"iso_messages";i:19;s:21:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+            </child>
+        </children>
+    </archive>
+    <archive identifier="gPagination">
+        <field title="identifier">gPagination</field>
+        <children>
+            <child alias="justifyPagination">
+                <field title="alias">justifyPagination</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="justifyPaginationXS">
+                <field title="alias">justifyPaginationXS</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="justifyPaginationS">
+                <field title="alias">justifyPaginationS</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="justifyPaginationM">
+                <field title="alias">justifyPaginationM</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="justifyPaginationL">
+                <field title="alias">justifyPaginationL</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="justifyPaginationXL">
+                <field title="alias">justifyPaginationXL</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="alignPagination">
+                <field title="alias">alignPagination</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="alignPaginationXS">
+                <field title="alias">alignPaginationXS</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="alignPaginationS">
+                <field title="alias">alignPaginationS</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="alignPaginationM">
+                <field title="alias">alignPaginationM</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="alignPaginationL">
+                <field title="alias">alignPaginationL</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+            <child alias="alignPaginationXL">
+                <field title="alias">alignPaginationXL</field>
+                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+            </child>
+        </children>
+    </archive>
     <archive identifier="eGridList">
         <field title="identifier">eGridList</field>
         <children>
