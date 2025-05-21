@@ -10,9 +10,9 @@
 <<?= $this->hl ?>><?= $this->headline ?></<?= $this->hl ?>>
 <?php endif; ?>
 
-<ul class="c_list grid-list<?= $ulClasses ?> level_1 ">
+<ul class="c_list <?= $ulClasses ?> level_1 ">
 <?php foreach ($this->filters as $item): ?>
-<li class="<?= $item['class'] ?>">
+<li class="item <?= $item['class'] ?>">
     <span class="label"><?= $item['label'] ?></span>
     <?= $item['subitems'] ?>
 </li>
