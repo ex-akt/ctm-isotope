@@ -5,59 +5,59 @@
         <children>
             <child alias="spacingGlobal">
                 <field title="alias">spacingGlobal</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
              <child alias="spacing">
                 <field title="alias">spacing</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
              <child alias="spacingXS">
                 <field title="alias">spacingXS</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
              <child alias="spacingS">
                 <field title="alias">spacingS</field>
-               <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+               <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
              <child alias="spacingM">
                 <field title="alias">spacingM</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
              <child alias="spacingL">
                 <field title="alias">spacingL</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
              <child alias="spacingXL">
                 <field title="alias">spacingXL</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
              <child alias="alignment">
                 <field title="alias">alignment</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentXS">
                 <field title="alias">alignmentXS</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentS">
                 <field title="alias">alignmentS</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentM">
                 <field title="alias">alignmentM</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentL">
                 <field title="alias">alignmentL</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentXL">
                 <field title="alias">alignmentXL</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="hlTextColor">
                 <field title="alias">hlTextColor</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -66,31 +66,31 @@
         <children>
             <child alias="alignment">
                 <field title="alias">alignment</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentXS">
                 <field title="alias">alignmentXS</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentS">
                 <field title="alias">alignmentS</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentM">
                 <field title="alias">alignmentM</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentL">
                 <field title="alias">alignmentL</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignmentXL">
                 <field title="alias">alignmentXL</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="textColor">
                 <field title="alias">textColor</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -99,7 +99,7 @@
         <children>
             <child alias="linkColor">
                 <field title="alias">linkColor</field>
-                <field title="modules">a:22:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:17:"iso_productreader";i:3;s:13:"iso_favorites";i:4;s:8:"iso_cart";i:5;s:12:"iso_checkout";i:6;s:17:"iso_productfilter";i:7;s:20:"iso_cumulativefilter";i:8;s:18:"iso_categoryfilter";i:9;s:15:"iso_rangefilter";i:10;s:16:"iso_orderhistory";i:11;s:16:"iso_orderdetails";i:12;s:19:"iso_wishlistmanager";i:13;s:18:"iso_wishlistviewer";i:14;s:19:"iso_wishlistdetails";i:15;s:18:"iso_configswitcher";i:16;s:15:"iso_addressbook";i:17;s:19:"iso_relatedproducts";i:18;s:12:"iso_messages";i:19;s:23:"iso_shipping_calculator";i:20;s:16:"iso_cart_address";i:21;s:16:"iso_trustedshops";}</field>
+                <field title="contentElements">a:11:{i:0;s:15:"iso_productlist";i:1;s:17:"iso_productreader";i:2;s:8:"iso_cart";i:3;s:12:"iso_checkout";i:4;s:17:"iso_productfilter";i:5;s:18:"iso_categoryfilter";i:6;s:16:"iso_orderhistory";i:7;s:16:"iso_orderdetails";i:8;s:18:"iso_configswitcher";i:9;s:15:"iso_addressbook";i:10;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -108,51 +108,51 @@
         <children>
             <child alias="justifyPagination">
                 <field title="alias">justifyPagination</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyPaginationXS">
                 <field title="alias">justifyPaginationXS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyPaginationS">
                 <field title="alias">justifyPaginationS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyPaginationM">
                 <field title="alias">justifyPaginationM</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyPaginationL">
                 <field title="alias">justifyPaginationL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyPaginationXL">
                 <field title="alias">justifyPaginationXL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignPagination">
                 <field title="alias">alignPagination</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignPaginationXS">
                 <field title="alias">alignPaginationXS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignPaginationS">
                 <field title="alias">alignPaginationS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignPaginationM">
                 <field title="alias">alignPaginationM</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignPaginationL">
                 <field title="alias">alignPaginationL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignPaginationXL">
                 <field title="alias">alignPaginationXL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -161,59 +161,59 @@
         <children>
             <child alias="list">
                 <field title="alias">list</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listXS">
                 <field title="alias">listXS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listS">
                 <field title="alias">listS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listM">
                 <field title="alias">listM</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listL">
                 <field title="alias">listL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="listXL">
                 <field title="alias">listXL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="gutter">
                 <field title="alias">gutter</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justify">
                 <field title="alias">justify</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyXS">
                 <field title="alias">justifyXS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyS">
                 <field title="alias">justifyS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyM">
                 <field title="alias">justifyM</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyL">
                 <field title="alias">justifyL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="justifyXL">
                 <field title="alias">justifyXL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="alignment">
                 <field title="alias">alignment</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -222,71 +222,71 @@
         <children>
             <child alias="list">
                 <field title="alias">list</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="listXS">
                 <field title="alias">listXS</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="listS">
                 <field title="alias">listS</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="listM">
                 <field title="alias">listM</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="listL">
                 <field title="alias">listL</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="listXL">
                 <field title="alias">listXL</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="direction">
                 <field title="alias">direction</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="listGutter">
                 <field title="alias">listGutter</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="listStyle">
                 <field title="alias">listStyle</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="icon">
                 <field title="alias">icon</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="justifyList">
                 <field title="alias">justifyList</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="justifyListXS">
                 <field title="alias">justifyListXS</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="justifyListS">
                 <field title="alias">justifyListS</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="justifyListM">
                 <field title="alias">justifyListM</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="justifyListL">
                 <field title="alias">justifyListL</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="justifyListXL">
                 <field title="alias">justifyListXL</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
             <child alias="markerColor">
                 <field title="alias">markerColor</field>
-                <field title="modules">a:1:{i:0;s:20:"iso_cumulativefilter";}</field>
+                <field title="contentElements">a:0:{}</field>
             </child>
         </children>
     </archive>
@@ -295,27 +295,27 @@
         <children>
             <child alias="scale">
                 <field title="alias">scale</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="aspectRatio">
                 <field title="alias">aspectRatio</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="imgAlign">
                 <field title="alias">imgAlign</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="objectFit">
                 <field title="alias">objectFit</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="objectPosX">
                 <field title="alias">objectPosX</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="objectPosY">
                 <field title="alias">objectPosY</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -324,27 +324,27 @@
         <children>
             <child alias="ip">
                 <field title="alias">ip</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipXS">
                 <field title="alias">ipXS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipS">
                 <field title="alias">ipS</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipM">
                 <field title="alias">ipM</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipL">
                 <field title="alias">ipL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
             <child alias="ipXL">
                 <field title="alias">ipXL</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>
@@ -353,7 +353,7 @@
         <children>
             <child alias="color">
                 <field title="alias">color</field>
-                <field title="modules">a:3:{i:0;s:15:"iso_productlist";i:1;s:22:"iso_productvariantlist";i:2;s:19:"iso_relatedproducts";}</field>
+                <field title="contentElements">a:2:{i:0;s:15:"iso_productlist";i:1;s:19:"iso_relatedproducts";}</field>
             </child>
         </children>
     </archive>

@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace ContaoThemeManager\Isotope\ContaoManager;
 
 use Contao\CoreBundle\ContaoCoreBundle;
+use Isotope\CoreBundle\IsotopeBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
 use Contao\ManagerPlugin\Bundle\Config\BundleConfig;
 use Contao\ManagerPlugin\Bundle\Parser\ParserInterface;
@@ -22,7 +23,7 @@ class Plugin implements BundlePluginInterface
         //      If it's a Contao 4 Bundle, you would use the class name. (SH,23.01.2025)
         return [
             BundleConfig::create(ContaoThemeManagerIsotope::class)
-                ->setLoadAfter([ContaoCoreBundle::class, 'isotope', ContaoThemeManagerCore::class])
+                ->setLoadAfter([ContaoCoreBundle::class, IsotopeBundle::class, ContaoThemeManagerCore::class])
                 ->setReplace(['ctm-isotope']),
         ];
     }
