@@ -2,7 +2,11 @@
   "name": "ex-akt/ctm-isotope",
   "type": "symfony-bundle",
   "description": "Isotope Layout for Contao Theme-Manager",
-  "keywords": ["contao", "theme", "isotope"],
+  "keywords": [
+    "contao",
+    "theme",
+    "isotope"
+  ],
   "homepage": "https://www.ex-akt.de/",
   "authors": [
     {
@@ -17,10 +21,10 @@
     }
   ],
   "require": {
-    "php": "^8.1",
-    "contao/core-bundle": "^4.13 || ^5.2",
-    "contao-thememanager/core": "^2.2",
-    "isotope/isotope-core":"^2.5"
+    "php": "^8.3",
+    "contao/core-bundle": "^5.7",
+    "contao-thememanager/core": "^2.4.4",
+    "isotope/isotope-core": "^3.0@RC"
   },
   "require-dev": {
     "contao/manager-plugin": "^2.3.1"
